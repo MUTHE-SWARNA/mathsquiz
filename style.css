@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 :root{
-    --primary:#ff9090;
+    --primary: #100000;
 }
 * {
     margin: 0;
@@ -58,7 +58,7 @@ html{
 }
 #input{
     background: transparent;
-    border: 1px solid #000000;
+    border: 1px solid black;
     border-radius: 5px;
     
     padding: 10px 20px;
@@ -70,7 +70,7 @@ html{
 }
 .btn{
     height: 46px;
-    background-color: var(--primary);
+    background-color: #ff7070;
     border-radius: 10px;
     color: white;
     font-size: 32px;
